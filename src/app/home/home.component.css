@@ -1,0 +1,26 @@
+﻿* {
+    font-family: verdana;
+}
+
+#header {
+    height: 150px;
+    width: 1333px;
+    background-color: pink;    
+}
+
+#namelogout {
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    float: right;
+}
+
+.button {
+    width: 150px;
+    height: 50px;
+    border: none;
+    float:center;
+    text-align:center;
+    background-color: white;
+}
